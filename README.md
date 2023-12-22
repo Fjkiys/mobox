@@ -110,3 +110,4 @@ Big thanks to Hugo, JeezDisReez, ptitSeb, MishkaKolos, Xanzo, Jotaros, Maxython 
 
 [Mesa-VirGL](https://github.com/alexvorxx/Mesa-VirGL)
 
+curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && . ~/x
